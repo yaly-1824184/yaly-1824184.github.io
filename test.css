@@ -1,0 +1,97 @@
+body {
+        background-image: linear-gradient(red, yellow);
+      }
+    
+}
+
+p{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+
+}
+
+h3{
+    color:#FFBC00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px
+}
+
+li{
+     list-style-type: square;
+
+}
+
+#Header{
+    border:solid 8px black;
+    border-style: dashed;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #8E41D5;
+}
+
+#Header h1{ front-size: 60px; font-family: "Passion One"; color: #963254; font-weight: bold;
+    font-family: 'Passion One', cursive;
+    text-shadow: 2px 2px red;
+    font-style: oblique;
+}
+
+#LeftNav{
+    border:solid 8px black;
+    border-style: dotted;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: #8E41D5;
+  
+
+}
+
+#LeftNav img{
+
+}
+
+#LeftNav ul{
+
+}
+
+#LeftNav{
+    border:solid 8px black;
+    border-style: dotted;
+
+}
+
+#Content{
+    border:solid 8px black;
+    border-style: dotted;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: center;
+    padding: 15px;
+    background-color: #8E41D5;
+    color: white;
+    text-decoration: underline
+
+}
+
+#Footer{
+    border:solid 8px black;
+    border-style: dotted;
+    background-color: #8E41D5;
+
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+}
